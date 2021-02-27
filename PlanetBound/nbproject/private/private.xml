@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/planetbound/logica/dados/Setores/Planetas/Planeta.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>222</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ruise/Documents/NetBeansProjects/PlanetBound/src/planetbound/logica/IConstantes.java</file>
+            <file>file:/C:/Users/ruise/Documents/NetBeansProjects/PlanetBound/src/planetbound/iu/graph/PainelVitoria.java</file>
+            <file>file:/C:/Users/ruise/Documents/NetBeansProjects/PlanetBound/src/planetbound/iu/graph/PainelPreExploracao.java</file>
+            <file>file:/C:/Users/ruise/Documents/NetBeansProjects/PlanetBound/src/planetbound/iu/graph/PainelLoja.java</file>
+            <file>file:/C:/Users/ruise/Documents/NetBeansProjects/PlanetBound/src/planetbound/logica/dados/dadosJogo.java</file>
+            <file>file:/C:/Users/ruise/Documents/NetBeansProjects/PlanetBound/src/planetbound/iu/graph/Sons.java</file>
+            <file>file:/C:/Users/ruise/Documents/NetBeansProjects/PlanetBound/src/planetbound/logica/dados/nave/divisoes/Carga.java</file>
+            <file>file:/C:/Users/ruise/Documents/NetBeansProjects/PlanetBound/src/planetbound/iu/graph/PainelConversao.java</file>
+            <file>file:/C:/Users/ruise/Documents/NetBeansProjects/PlanetBound/src/planetbound/iu/graph/PainelExploracao.java</file>
+            <file>file:/C:/Users/ruise/Documents/NetBeansProjects/PlanetBound/src/planetbound/iu/graph/PainelDerrota.java</file>
+            <file>file:/C:/Users/ruise/Documents/NetBeansProjects/PlanetBound/src/planetbound/logica/estados/MaqJogoObservavel.java</file>
+            <file>file:/C:/Users/ruise/Documents/NetBeansProjects/PlanetBound/src/planetbound/logica/dados/utilidade/Eventos.java</file>
+            <file>file:/C:/Users/ruise/Documents/NetBeansProjects/PlanetBound/src/planetbound/iu/graph/LabelExploracao.java</file>
+            <file>file:/C:/Users/ruise/Documents/NetBeansProjects/PlanetBound/src/planetbound/iu/graph/PaneOrganizer.java</file>
+            <file>file:/C:/Users/ruise/Documents/NetBeansProjects/PlanetBound/src/planetbound/iu/graph/PainelJogo.java</file>
+            <file>file:/C:/Users/ruise/Documents/NetBeansProjects/PlanetBound/src/planetbound/iu/graph/BotoesJogo.java</file>
+            <file>file:/C:/Users/ruise/Documents/NetBeansProjects/PlanetBound/src/planetbound/iu/graph/PainelDesistiu.java</file>
+            <file>file:/C:/Users/ruise/Documents/NetBeansProjects/PlanetBound/src/planetbound/logica/estados/AguardaEscolhaRecursos.java</file>
+        </group>
+    </open-files>
+</project-private>
